@@ -1,0 +1,731 @@
+{
+  "FilterCriteria": {
+    "customer_number": "130256",
+    "Order_Headers": [
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "6002396",
+          "order_date": "20190211 124933.000",
+          "customer_po": "4600",
+          "order_type": "Return Ordre",
+          "order_status": "In Progress",
+          "original_system": "Copy",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "1",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "-412.94",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "-412.94",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y",
+          "on_hold_flag": "Y",
+          "hold_name": "CPU ORDER INVOICE HOLD BY CUS SVC"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/6002396"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1050644",
+          "order_date": "20190210 141224.000",
+          "customer_po": "4604",
+          "order_type": "Standard Order",
+          "order_status": "In Progress",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "1",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "557.87",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "557.87",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1050644"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1049872",
+          "order_date": "20190131 073508.000",
+          "customer_po": "4603",
+          "order_type": "Standard Order",
+          "order_status": "In Progress",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "1",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "617.95",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "617.95",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1049872"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1049335",
+          "order_date": "20190123 131834.000",
+          "customer_po": "4600",
+          "order_type": "Standard Order",
+          "order_status": "In Progress",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "3",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "1046.16",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "1046.16",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1049335"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1049183",
+          "order_date": "20190121 195208.000",
+          "customer_po": "4568",
+          "order_type": "Standard Order",
+          "order_status": "In Progress",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "3",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "836.81",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "836.81",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1049183"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1047882",
+          "order_date": "20190103 121544.000",
+          "customer_po": "98613",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "3",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "3441.2",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "3441.2",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1047882"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1047731",
+          "order_date": "20181228 123614.000",
+          "customer_po": "98609",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "4",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "2641.95",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "2641.95",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1047731"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1044242",
+          "order_date": "20181106 115959.000",
+          "customer_po": "4587",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "5",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "5104.8",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "5104.8",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1044242"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1043437",
+          "order_date": "20181024 112642.000",
+          "customer_po": "90845",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "2",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "3104.18",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "3104.18",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1043437"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1042473",
+          "order_date": "20181010 105515.000",
+          "customer_po": "4567",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "2",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "1761.4",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "1761.4",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1042473"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1041773",
+          "order_date": "20180929 143550.000",
+          "customer_po": "4500023459",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "4",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "2455.86",
+          "order_tax": "0",
+          "order_charges": "16.23",
+          "order_total": "2472.09",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1041773"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1039943",
+          "order_date": "20180831 124036.000",
+          "customer_po": "8793",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "1",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "2800.55",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "2800.55",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1039943"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1039335",
+          "order_date": "20180822 160307.000",
+          "customer_po": "8792",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "4",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "4020.57",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "4020.57",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1039335"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "6001824",
+          "order_date": "20180813 164115.000",
+          "customer_po": "4500038495",
+          "order_type": "Return Ordre",
+          "order_status": "In Progress",
+          "original_system": "Copy",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "1",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "-9.34",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "-9.34",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y",
+          "on_hold_flag": "Y",
+          "hold_name": "CPU ORDER INVOICE HOLD BY CUS SVC"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/6001824"
+          ]
+        }
+      },
+      {
+        "Details": {
+          "opco": "OU_CPU",
+          "order_number": "1037340",
+          "order_date": "20180723 150208.000",
+          "customer_po": "49037",
+          "order_type": "Standard Order",
+          "order_status": "Closed",
+          "original_system": "Online",
+          "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+          "number_of_ordered_items": "3",
+          "currency": "USD",
+          "ship_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "375 PINE AVENUE #6",
+              "City": "GOLETA",
+              "State": "CA",
+              "ZipCode": "93117",
+              "Country": "US"
+            }
+          },
+          "invoice_to": {
+            "customer_name": "CONTAINER TECHNOLOGY INC",
+            "customer_account": "130256",
+            "Address": {
+              "street_address1": "PO BOX 60508",
+              "City": "SANTA BARBARA",
+              "State": "CA",
+              "ZipCode": "93160",
+              "Country": "US",
+              "email": "Doris Clancy <doris.cti@cox.net>"
+            }
+          },
+          "order_subtotal": "8244.44",
+          "order_tax": "0",
+          "order_charges": "0",
+          "order_total": "8244.44",
+          "payment_terms": "Net 30",
+          "sales_order_ack_file": "Y"
+        },
+        "Documents": {
+          "soa_url": [
+            "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/1037340"
+          ]
+        }
+      }
+    ]
+  }
+}

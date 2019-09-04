@@ -1,0 +1,53 @@
+{"Order_Headers":[
+  {
+    "Details": {
+      "opco": "OU_CPU",
+      "order_number": "6002396",
+      "order_date": "20190211 124933.000",
+      "customer_po": "4600",
+      "order_type": "Return Ordre",
+      "order_status": "In Progress",
+      "original_system": "Copy",
+      "sold_to_customer": "CONTAINER TECHNOLOGY INC",
+      "number_of_ordered_items": "1",
+      "currency": "USD",
+      "ship_to": {
+        "customer_name": "CONTAINER TECHNOLOGY INC",
+        "customer_account": "130256",
+        "Address": {
+          "street_address1": "375 PINE AVENUE #6",
+          "City": "GOLETA",
+          "State": "CA",
+          "ZipCode": "93117",
+          "Country": "US"
+        }
+      },
+      "invoice_to": {
+        "customer_name": "CONTAINER TECHNOLOGY INC",
+        "customer_account": "130256",
+        "Address": {
+          "street_address1": "PO BOX 60508",
+          "City": "SANTA BARBARA",
+          "State": "CA",
+          "ZipCode": "93160",
+          "Country": "US",
+          "email": "Doris Clancy <doris.cti@cox.net>"
+        }
+      },
+      "order_subtotal": "-412.94",
+      "order_tax": "0",
+      "order_charges": "0",
+      "order_total": "-412.94",
+      "payment_terms": "Net 30",
+      "sales_order_ack_file": "Y",
+      "on_hold_flag": "Y",
+      "hold_name": "CPU ORDER INVOICE HOLD BY CUS SVC"
+    },
+    "Documents": {
+      "soa_url": [
+        "https://dcrpwa.dovercorporation.com/B2BDBSDEV/ws/rest/APIServices/Documents/CPU/SOA/6002396"
+      ]
+    }
+  }
+]
+}
